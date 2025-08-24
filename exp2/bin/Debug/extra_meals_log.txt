@@ -1,0 +1,86 @@
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 14:22:07
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 0.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 14:22:52
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 0.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 14:23:59
+Roll Number: 23102012 Name: ANUJ NILESH SHIRKE Amount: Sanjay Das Rate: ₹ 0.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 14:24:21
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 0.00 Meal: Dinner Date: 23-07-2024 Time: 23-07-2024 20:04:22
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 0.00 Meal: Dinner Date: 23-07-2024 Time: 23-07-2024 21:39:16
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 23-07-2024 Time: 23-07-2024 23:24:24 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 23-07-2024 Time: 23-07-2024 23:24:30 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 23-07-2024 Time: 23-07-2024 23:25:37 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 23-07-2024 Time: 23-07-2024 23:30:07 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 23-07-2024 Time: 23-07-2024 23:30:10 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Item: Other Date: 23-07-2024 Time: 23-07-2024 23:39:44 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 23-07-2024 Time: 23-07-2024 23:40:37 Manual: False
+Roll Number: 23102033 Name: JASKARAN SINGH Amount: Abhishek Sen Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:09:02 Manual: False
+Roll Number: 23102033 Name: JASKARAN SINGH Amount: Abhishek Sen Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:10:07 Manual: False
+Roll Number: 23102033 Name: JASKARAN SINGH Amount: Abhishek Sen Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:10:14 Manual: False
+Roll Number: 23102036 Name: KANISHK RAJAK Amount: Nitin Vyas Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:10:46 Manual: False
+Roll Number: 23102036 Name: KANISHK RAJAK Amount: Nitin Vyas Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:11:07 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:43:23 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:53:28 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 01:04:31 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 01:21:41 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 01:21:51 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 01:22:50 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 01:48:19 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 01:51:50 Manual: False
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 01:52:07 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Lunch Date: 24-07-2024 Time: 24-07-2024 14:11:06 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Lunch Date: 24-07-2024 Time: 24-07-2024 14:26:11 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 15:46:35 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 15:46:43 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 15:47:11 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 15:51:34 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Snacks Date: 24-07-2024 Time: 24-07-2024 16:43:18 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Snacks Date: 24-07-2024 Time: 24-07-2024 16:54:33 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Snacks Date: 24-07-2024 Time: 24-07-2024 17:22:58 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 20.00 Meal: Snacks Date: 24-07-2024 Time: 24-07-2024 17:32:29 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Snacks Date: 24-07-2024 Time: 24-07-2024 17:41:46 Manual: False
+Roll Number: 23102026 Name: HARSHIT RULANIYAN Amount: Anup Jain Rate: ₹ 24.00 Meal: Snacks Date: 24-07-2024 Time: 24-07-2024 17:42:27 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:13:29 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Extra Dinner Date: 24-07-2024 Time: 24-07-2024 19:22:28 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:24:37 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:32:54 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:33:03 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:33:12 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 20.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:51:26 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 20.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:51:51 Manual: False
+Roll Number: 23102010 Name: ANKIT PAL Amount: Rakesh Rao Rate: ₹ 20.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:53:27 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 20:05:29 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Lassi Date: 24-07-2024 Time: 24-07-2024 20:15:02 Manual: True
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 20:15:55 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 20:16:17 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 20:41:34 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 20:48:11 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 23:32:50 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:26:20 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:26:20 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:26:23 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:26:32 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:26:32 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:26:35 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:30:08 Manual: True
+Roll Number: 23102045 Name: MANAN AGGARWAL Amount: Anirudh Reddy Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:30:31 Manual: True
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:31:16 Manual: True
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:32:36 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:42:14 Manual: True
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:57:34 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 01:20:45 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 01:36:55 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 01:36:58 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 22.00 Meal: Lunch Date: 25-07-2024 Time: 25-07-2024 13:58:25 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 24.00 Meal: Snacks Date: 25-07-2024 Time: 25-07-2024 17:19:45 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 24.00 Meal: Snacks Date: 25-07-2024 Time: 25-07-2024 17:28:02 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 24.00 Meal: Snacks Date: 25-07-2024 Time: 25-07-2024 17:51:14 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 24.00 Meal: Snacks Date: 25-07-2024 Time: 25-07-2024 17:51:54 Manual: False
+Roll Number: 23102044 Name: LUV KUNTAL Amount: Suraj Ghosh Rate: ₹ 24.00 Meal: Snacks Date: 25-07-2024 Time: 25-07-2024 17:52:42 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 24.00 Meal: Snacks Date: 25-07-2024 Time: 25-07-2024 17:53:04 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 25-07-2024 Time: 25-07-2024 19:47:38 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 25-07-2024 Time: 25-07-2024 19:58:45 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 25-07-2024 Time: 25-07-2024 19:58:59 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 25-07-2024 Time: 25-07-2024 20:04:01 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 25-07-2024 Time: 25-07-2024 20:04:16 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 25-07-2024 Time: 25-07-2024 20:06:59 Manual: False
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 21.00 Meal: Dinner Date: 25-07-2024 Time: 25-07-2024 20:07:08 Manual: False
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 21.00 Meal: Dinner Date: 25-07-2024 Time: 25-07-2024 20:12:27 Manual: False
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 21.00 Meal: Dinner Date: 25-07-2024 Time: 25-07-2024 20:12:38 Manual: False

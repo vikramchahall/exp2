@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikra\\source\\repos\\exp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28640254-2EA8-4AFA-8A39-145F01D1306F}|exp2\\exp2.csproj|c:\\users\\vikra\\source\\repos\\exp2\\exp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28640254-2EA8-4AFA-8A39-145F01D1306F}|exp2\\exp2.csproj|solutionrelative:exp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28640254-2EA8-4AFA-8A39-145F01D1306F}|exp2\\exp2.csproj|C:\\Users\\vikra\\source\\repos\\exp2\\exp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28640254-2EA8-4AFA-8A39-145F01D1306F}|exp2\\exp2.csproj|solutionrelative:exp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vikra\\source\\repos\\exp2\\exp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "exp2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vikra\\source\\repos\\exp2\\exp2\\MainWindow.xaml",
+              "RelativeToolTip": "exp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-25T19:32:33.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\source\\repos\\exp2\\exp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "exp2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vikra\\source\\repos\\exp2\\exp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "exp2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAD0HAAAAAAAAAAAwwFYHAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:32:34.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

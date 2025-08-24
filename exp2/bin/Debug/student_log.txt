@@ -1,0 +1,544 @@
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 05-07-2024 Time: 05-07-2024 00:20:47
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 05-07-2024 Time: 05-07-2024 01:54:19
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 0.00 Meal: Other Date: 05-07-2024 Time: 05-07-2024 01:56:31
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 0.00 Meal: Other Date: 05-07-2024 Time: 05-07-2024 01:56:52
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 05-07-2024 Time: 05-07-2024 01:56:59
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 0.00 Meal: Other Date: 05-07-2024 Time: 05-07-2024 01:57:09
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:11:56
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:12:07
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:12:09
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:15:47
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:24:57
+Roll Number: 23102012 Name: ANUJ NILESH SHIRKE Amount: Sanjay Das Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:25:01
+Roll Number: 23102013 Name: ARISHDEEP Amount: Naveen Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:25:05
+Roll Number: 23102084 Name: Vikram jii Amount: Harjee Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:30:08
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:30:13
+Roll Number: 23102015 Name: ASHMIT SINGH Amount: Harish Kulkarni Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:30:15
+Roll Number: 23102016 Name: AYUSH YADAV Amount: Ashok Reddy Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:30:17
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 12:31:21
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 13:39:38
+Roll Number: 23102019 Name: DEVAN BANSAL Amount: Kiran Kapoor Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 13:39:44
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 13:47:36
+Roll Number: 23102033 Name: JASKARAN SINGH Amount: Abhishek Sen Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 13:47:43
+Roll Number: 23102020 Name: DHRUV WADHWA Amount: Ramesh Kumar Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 13:47:48
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 13:49:42
+Roll Number: 23102022 Name: DIPESH KUMAR Amount: Mukesh Bansal Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 13:49:47
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 13:51:16
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 13:51:54
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 13:58:12
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 13:58:15
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:10:23
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:10:42
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:12:09
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:13:05
+Roll Number: 23102016 Name: AYUSH YADAV Amount: Ashok Reddy Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:13:13
+Roll Number: 23102009 Name: ANIRUDH MEENA Amount: Prakash Khanna Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:13:16
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:13:54
+Roll Number: 23102018 Name: CHITRAKSH DALIA Amount: Jitendra Sharma Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:14:13
+Roll Number: 23102019 Name: DEVAN BANSAL Amount: Kiran Kapoor Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:14:17
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:14:38
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:14:54
+Roll Number: 23102026 Name: HARSHIT RULANIYAN Amount: Anup Jain Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:27:28
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:28:15
+Roll Number: 23102046 Name: MAYANK RAJ Amount: Madhav Tripathi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:29:04
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:29:09
+Roll Number: 23102013 Name: ARISHDEEP Amount: Naveen Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:29:11
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:30:10
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:30:17
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:30:57
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:31:00
+Roll Number: 23102046 Name: MAYANK RAJ Amount: Madhav Tripathi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:31:03
+Roll Number: 23102014 Name: ARPIT SURI Amount: Vikram Sen Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:32:16
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:32:44
+Roll Number: 23102015 Name: ASHMIT SINGH Amount: Harish Kulkarni Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:32:47
+Roll Number: 23102016 Name: AYUSH YADAV Amount: Ashok Reddy Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:32:49
+Roll Number: 23102017 Name: BHOMIKA Amount: Amit Roy Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:32:51
+Roll Number: 23102018 Name: CHITRAKSH DALIA Amount: Jitendra Sharma Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:32:53
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:37:02
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:37:04
+Roll Number: 23102028 Name: HEMANT GOYAL Amount: Kunal Thakur Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:37:09
+Roll Number: 23102045 Name: MANAN AGGARWAL Amount: Anirudh Reddy Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:38:04
+Roll Number: 23102012 Name: ANUJ NILESH SHIRKE Amount: Sanjay Das Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:38:17
+Roll Number: 23102016 Name: AYUSH YADAV Amount: Ashok Reddy Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:38:19
+Roll Number: 23102016 Name: AYUSH YADAV Amount: Ashok Reddy Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:38:54
+Roll Number: 23102019 Name: DEVAN BANSAL Amount: Kiran Kapoor Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:38:57
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:40:54
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:41:06
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:41:09
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:41:31
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:41:35
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:41:36
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:42:01
+Roll Number: 23102004 Name: ABHISHEK SINGH Amount: j Verma Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:42:08
+Roll Number: 23102005 Name: ANURAG Amount: d Choudhary Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:44:08
+Roll Number: 23102006 Name: ADITYA SHARMA Amount: Arun Desai Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:44:11
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:52:00
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:52:07
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 33.00 Meal: Lunch Date: 05-07-2024 Time: 05-07-2024 14:52:08
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 18.00 Meal: Breakfast Date: 11-07-2024 Time: 11-07-2024 09:34:39
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 18.00 Meal: Breakfast Date: 11-07-2024 Time: 11-07-2024 09:34:56
+Roll Number: 23102012 Name: ANUJ NILESH SHIRKE Amount: Sanjay Das Rate: ₹ 18.00 Meal: Breakfast Date: 11-07-2024 Time: 11-07-2024 09:34:59
+Roll Number: 23102015 Name: ASHMIT SINGH Amount: Harish Kulkarni Rate: ₹ 18.00 Meal: Breakfast Date: 11-07-2024 Time: 11-07-2024 09:35:42
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 22:49:23
+Roll Number: 23102084 Name: Vikram jii Amount: Harjee Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 22:51:32
+Roll Number: 23102003 Name: ABHISHEK SINGH Amount:  biralPatel Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 22:58:19
+Roll Number: 23102003 Name: ABHISHEK SINGH Amount:  biralPatel Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 22:58:36
+Roll Number: 23102005 Name: ANURAG Amount: d Choudhary Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 22:58:40
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 22:59:07
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 22:59:10
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:15:59
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:16:03
+Roll Number: 23102003 Name: ABHISHEK SINGH Amount:  biralPatel Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:16:13
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:44:14
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:44:32
+Roll Number: 23102015 Name: ASHMIT SINGH Amount: Harish Kulkarni Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:44:46
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:45:30
+Roll Number: 23102003 Name: ABHISHEK SINGH Amount:  biralPatel Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:45:32
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:45:58
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:46:24
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:46:31
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:46:53
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:47:12
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:47:25
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:47:27
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:47:28
+Roll Number: 23102020 Name: DHRUV WADHWA Amount: Ramesh Kumar Rate: ₹ 0.00 Meal: Other Date: 11-07-2024 Time: 11-07-2024 23:47:50
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 0.00 Meal: Other Date: 12-07-2024 Time: 12-07-2024 00:01:42
+Roll Number: 23102003 Name: ABHISHEK SINGH Amount:  biralPatel Rate: ₹ 0.00 Meal: Other Date: 12-07-2024 Time: 12-07-2024 00:01:44
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 0.00 Meal: Other Date: 12-07-2024 Time: 12-07-2024 00:01:49
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 12-07-2024 Time: 12-07-2024 00:20:44
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 17.00 Meal: Dinner Date: 13-07-2024 Time: 13-07-2024 21:01:13
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 17.00 Meal: Dinner Date: 13-07-2024 Time: 13-07-2024 21:01:18
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 17.00 Meal: Dinner Date: 13-07-2024 Time: 13-07-2024 21:02:47
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 17.00 Meal: Dinner Date: 13-07-2024 Time: 13-07-2024 21:02:49
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 17.00 Meal: Dinner Date: 13-07-2024 Time: 13-07-2024 21:03:57
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 17.00 Meal: Dinner Date: 13-07-2024 Time: 13-07-2024 21:04:11
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 17.00 Meal: Dinner Date: 13-07-2024 Time: 13-07-2024 21:04:18
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 17.00 Meal: Dinner Date: 13-07-2024 Time: 13-07-2024 21:04:35
+Roll Number: 23102004 Name: ABHISHEK SINGH Amount: j Verma Rate: ₹ 17.00 Meal: Dinner Date: 13-07-2024 Time: 13-07-2024 21:05:03
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 17.00 Meal: Dinner Date: 13-07-2024 Time: 13-07-2024 21:05:14
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:10:45
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:10:51
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:12:24
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:12:41
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:13:03
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:13:28
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:16:29
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:16:41
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:16:53
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:16:57
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:17:31
+Roll Number: 23102010 Name: ANKIT PAL Amount: Rakesh Rao Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:17:54
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:20:15
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:20:34
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 12.00 Meal: Snacks Date: 16-07-2024 Time: 16-07-2024 18:20:39
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 21-07-2024 Time: 21-07-2024 00:22:35
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 32.00 Meal: Snacks Date: 22-07-2024 Time: 22-07-2024 16:03:03
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 32.00 Meal: Dinner Date: 22-07-2024 Time: 22-07-2024 21:53:53
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:17:54
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:18:01
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:18:51
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:18:55
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:32:36
+Roll Number: 23102021 Name: DIKSHA SINGLA Amount: Sunil Saxena Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:33:12
+Roll Number: 23102021 Name: DIKSHA SINGLA Amount: Sunil Saxena Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:33:21
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:38:03
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:40:49
+Roll Number: 23102021 Name: DIKSHA SINGLA Amount: Sunil Saxena Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:40:53
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:40:58
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:46:39
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:46:41
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:47:14
+Roll Number: 23102015 Name: ASHMIT SINGH Amount: Harish Kulkarni Rate: ₹ 0.00 Meal: Other Date: 22-07-2024 Time: 22-07-2024 22:47:17
+Roll Number: 23102015 Name: ASHMIT SINGH Amount: Harish Kulkarni Rate: ₹ 0.00 Meal: Other Date: 23-07-2024 Time: 23-07-2024 11:39:04
+Roll Number: 23102045 Name: MANAN AGGARWAL Amount: Anirudh Reddy Rate: ₹ 0.00 Meal: Other Date: 23-07-2024 Time: 23-07-2024 11:59:19
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 16.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 12:00:02
+Roll Number: 23102022 Name: DIPESH KUMAR Amount: Mukesh Bansal Rate: ₹ 16.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 12:00:09
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 16.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 12:01:28
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 16.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 12:01:42
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 16.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 12:03:43
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 16.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 12:04:45
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 16.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 12:04:49
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 16.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 12:04:56
+Roll Number: 23102045 Name: MANAN AGGARWAL Amount: Anirudh Reddy Rate: ₹ 16.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 12:08:36
+Roll Number: 23102045 Name: MANAN AGGARWAL Amount: Anirudh Reddy Rate: ₹ 16.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 12:11:44
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 16.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 12:50:54
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 27.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 13:39:05
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 27.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 13:45:14
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 27.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 13:46:21
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 27.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 13:47:33
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 25.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 13:49:18
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 25.00 Meal: Lunch Date: 23-07-2024 Time: 23-07-2024 14:23:43
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 25.00 Meal: Dinner Date: 23-07-2024 Time: 23-07-2024 21:38:29
+Roll Number: 23102026 Name: HARSHIT RULANIYAN Amount: Anup Jain Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:02:17
+Roll Number: 23102025 Name: HARPREET SINGH Amount: Rajiv Agarwal Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:02:57
+Roll Number: 23102024 Name: HARDIK KUMAR Amount: Vijay Singh Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:03:00
+Roll Number: 23102021 Name: DIKSHA SINGLA Amount: Sunil Saxena Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:03:08
+Roll Number: 23102021 Name: DIKSHA SINGLA Amount: Sunil Saxena Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:04:03
+Roll Number: 23102021 Name: DIKSHA SINGLA Amount: Sunil Saxena Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:04:27
+Roll Number: 23102026 Name: HARSHIT RULANIYAN Amount: Anup Jain Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:04:32
+Roll Number: 23102024 Name: HARDIK KUMAR Amount: Vijay Singh Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:04:34
+Roll Number: 23102019 Name: DEVAN BANSAL Amount: Kiran Kapoor Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:08:24
+Roll Number: 23102033 Name: JASKARAN SINGH Amount: Abhishek Sen Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 00:08:29
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 01:22:17
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 32.00 Meal: Lunch Date: 24-07-2024 Time: 24-07-2024 14:11:14
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 32.00 Meal: Lunch Date: 24-07-2024 Time: 24-07-2024 14:29:02
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 24-07-2024 Time: 24-07-2024 15:51:48
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 28.00 Meal: Snacks Date: 24-07-2024 Time: 24-07-2024 16:42:37
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 28.00 Meal: Snacks Date: 24-07-2024 Time: 24-07-2024 17:22:17
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 28.00 Meal: Snacks Date: 24-07-2024 Time: 24-07-2024 17:22:29
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 26.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:13:22
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 26.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:22:15
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 26.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:24:38
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 13.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:51:06
+Roll Number: 23102010 Name: ANKIT PAL Amount: Rakesh Rao Rate: ₹ 13.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 19:53:05
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 18.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 20:15:42
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 18.00 Meal: Dinner Date: 24-07-2024 Time: 24-07-2024 20:41:35
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:32:40
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 00:35:21
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 25-07-2024 Time: 25-07-2024 01:11:19
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 30.00 Meal: Lunch Date: 25-07-2024 Time: 25-07-2024 13:58:26
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 22.00 Meal: Snacks Date: 25-07-2024 Time: 25-07-2024 17:39:53
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 22.00 Meal: Snacks Date: 25-07-2024 Time: 25-07-2024 17:48:08
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 22.00 Meal: Snacks Date: 25-07-2024 Time: 25-07-2024 17:49:57
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 19.00 Meal: Dinner Date: 25-07-2024 Time: 25-07-2024 19:59:07
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 19.00 Meal: Dinner Date: 25-07-2024 Time: 25-07-2024 20:03:51
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 0.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 11:16:49
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 11:19:26
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 11:21:35
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 11:28:09
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 11:28:20
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 26.00 Meal: Lunch Date: 26-07-2024 Time: 26-07-2024 12:53:31
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 26.00 Meal: Lunch Date: 26-07-2024 Time: 26-07-2024 13:00:50
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 26.00 Meal: Lunch Date: 26-07-2024 Time: 26-07-2024 13:01:29
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 26.00 Meal: Lunch Date: 26-07-2024 Time: 26-07-2024 13:28:16
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 26.00 Meal: Lunch Date: 26-07-2024 Time: 26-07-2024 13:28:40
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 15:43:47
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 25.00 Meal: Snacks Date: 26-07-2024 Time: 26-07-2024 16:26:54
+Roll Number: 23102012 Name: ANUJ NILESH SHIRKE Amount: Sanjay Das Rate: ₹ 25.00 Meal: Snacks Date: 26-07-2024 Time: 26-07-2024 16:27:16
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 25.00 Meal: Snacks Date: 26-07-2024 Time: 26-07-2024 16:27:57
+Roll Number: 23102001 Name: ABHINAV YADAV Amount:  Mehta Rate: ₹ 25.00 Meal: Snacks Date: 26-07-2024 Time: 26-07-2024 18:55:54
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 20.00 Meal: Dinner Date: 26-07-2024 Time: 26-07-2024 19:09:04
+Roll Number: 23102066 Name: weq Amount: 234 Rate: ₹ 20.00 Meal: Dinner Date: 26-07-2024 Time: 26-07-2024 19:09:10
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 20.00 Meal: Dinner Date: 26-07-2024 Time: 26-07-2024 19:10:29
+Roll Number: 23102066 Name: weq Amount: 234 Rate: ₹ 20.00 Meal: Dinner Date: 26-07-2024 Time: 26-07-2024 19:10:38
+Roll Number: 23102010 Name: ANKIT PAL Amount: Rakesh Rao Rate: ₹ 20.00 Meal: Dinner Date: 26-07-2024 Time: 26-07-2024 19:11:23
+Roll Number: 23102010 Name: ANKIT PAL Amount: Rakesh Rao Rate: ₹ 20.00 Meal: Dinner Date: 26-07-2024 Time: 26-07-2024 19:12:33
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 20.00 Meal: Dinner Date: 26-07-2024 Time: 26-07-2024 19:24:25
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:26:23
+Roll Number: 23102046 Name: MAYANK RAJ Amount: Madhav Tripathi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:27:44
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:34:57
+Roll Number: 23102046 Name: MAYANK RAJ Amount: Madhav Tripathi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:35:15
+Roll Number: 23102045 Name: MANAN AGGARWAL Amount: Anirudh Reddy Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:37:58
+Roll Number: 23102045 Name: MANAN AGGARWAL Amount: Anirudh Reddy Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:38:13
+Roll Number: 23102011 Name: ANSHUMAN GARG Amount: Deepak Iyer Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:39:44
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:47:57
+Roll Number: 23102043 Name: LOVISH BANSAL Amount: Shankar Ramaswamy Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:48:14
+Roll Number: 23102038 Name: KAUSHAL KHOLWAL Amount: Aditya Shetty Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:50:59
+Roll Number: 23102038 Name: KAUSHAL KHOLWAL Amount: Aditya Shetty Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:51:13
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:51:55
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:55:35
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:58:02
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 22:58:15
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:01:26
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:01:41
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:03:06
+Roll Number: 23102014 Name: ARPIT SURI Amount: Vikram Sen Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:29:10
+Roll Number: 23102003 Name: ABHISHEK SINGH Amount:  biralPatel Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:35:53
+Roll Number: 23102010 Name: ANKIT PAL Amount: Rakesh Rao Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:35:57
+Roll Number: 23102003 Name: ABHISHEK SINGH Amount:  biralPatel Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:36:34
+Roll Number: 23102005 Name: ANURAG Amount: d Choudhary Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:37:34
+Roll Number: 23102009 Name: ANIRUDH MEENA Amount: Prakash Khanna Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:42:37
+Roll Number: 23102009 Name: ANIRUDH MEENA Amount: Prakash Khanna Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:44:44
+Roll Number: 23102007 Name: AJAYBIR SINGH Amount: Mahesh Nair Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:44:56
+Roll Number: 23102005 Name: ANURAG Amount: d Choudhary Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:46:14
+Roll Number: 23102012 Name: ANUJ NILESH SHIRKE Amount: Sanjay Das Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:46:24
+Roll Number: 23102016 Name: AYUSH YADAV Amount: Ashok Reddy Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:47:04
+Roll Number: 23102016 Name: AYUSH YADAV Amount: Ashok Reddy Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:47:18
+Roll Number: 23102017 Name: BHOMIKA Amount: Amit Roy Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:47:20
+Roll Number: 23102018 Name: CHITRAKSH DALIA Amount: Jitendra Sharma Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:47:22
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:52:39
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:52:50
+Roll Number: 23102047 Name: MEGHNA AGGARWAL Amount:  Joshi Rate: ₹ 11.00 Meal: Other Date: 26-07-2024 Time: 26-07-2024 23:55:23
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 28.00 Meal: Other Date: 27-07-2024 Time: 27-07-2024 00:09:38
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 28.00 Meal: Other Date: 27-07-2024 Time: 27-07-2024 00:09:49
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 28.00 Meal: Other Date: 27-07-2024 Time: 27-07-2024 00:14:09
+Roll Number: 23102029 Name: HIMANI AGARWAL Amount: Tarun Kaur Rate: ₹ 28.00 Meal: Other Date: 27-07-2024 Time: 27-07-2024 00:18:09
+Roll Number: 23102014 Name: ARPIT SURI Amount: Vikram Sen Rate: ₹ 28.00 Meal: Breakfast Date: 27-07-2024 Time: 27-07-2024 09:41:01
+Roll Number: 23102019 Name: DEVAN BANSAL Amount: Kiran Kapoor Rate: ₹ 28.00 Meal: Breakfast Date: 27-07-2024 Time: 27-07-2024 09:42:14
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 28.00 Meal: Other Date: 27-07-2024 Time: 27-07-2024 15:18:14
+Roll Number: 23102041 Name: LOVEN SAINI Amount: Arvind Thakkar Rate: ₹ 33.00 Meal: Snacks Date: 27-07-2024 Time: 27-07-2024 15:19:52
+Roll Number: 23102045 Name: MANAN AGGARWAL Amount: Anirudh Reddy Rate: ₹ 19.00 Meal: Dinner Date: 27-07-2024 Time: 27-07-2024 20:27:56
+Roll Number: 23102002 Name: ABHINAV KUMAR VERMA Amount: sharry Gupta Rate: ₹ 19.00 Meal: Dinner Date: 27-07-2024 Time: 27-07-2024 20:27:59
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 21.00 Meal: Breakfast Date: 04-08-2024 Time: 04-08-2024 07:40:34
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Breakfast Date: 04-08-2024 Time: 04-08-2024 07:58:47
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Breakfast Date: 04-08-2024 Time: 04-08-2024 07:59:14
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 21.00 Meal: Breakfast Date: 04-08-2024 Time: 04-08-2024 08:04:17
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Breakfast Date: 04-08-2024 Time: 04-08-2024 08:07:09
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 21.00 Meal: Breakfast Date: 04-08-2024 Time: 04-08-2024 08:07:56
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 31.00 Meal: Snacks Date: 04-08-2024 Time: 04-08-2024 18:56:06
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 31.00 Meal: Snacks Date: 04-08-2024 Time: 04-08-2024 18:58:39
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 28.00 Meal: Dinner Date: 04-08-2024 Time: 04-08-2024 19:03:03
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 28.00 Meal: Dinner Date: 04-08-2024 Time: 04-08-2024 19:06:33
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 28.00 Meal: Dinner Date: 04-08-2024 Time: 04-08-2024 19:09:35
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 28.00 Meal: Dinner Date: 04-08-2024 Time: 04-08-2024 19:51:12
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Other Date: 05-08-2024 Time: 05-08-2024 00:42:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Other Date: 05-08-2024 Time: 05-08-2024 00:55:00
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Other Date: 05-08-2024 Time: 05-08-2024 05:57:47
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 05-08-2024 Time: 05-08-2024 18:22:19
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 05-08-2024 Time: 05-08-2024 18:23:30
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 05-08-2024 Time: 05-08-2024 18:31:02
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 05-08-2024 Time: 05-08-2024 18:33:10
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 05-08-2024 Time: 05-08-2024 18:44:48
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 05-08-2024 Time: 05-08-2024 18:44:54
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 05-08-2024 Time: 05-08-2024 18:46:52
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 05-08-2024 Time: 05-08-2024 18:47:44
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 05-08-2024 Time: 05-08-2024 18:54:53
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 05-08-2024 Time: 05-08-2024 19:18:55
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 21.00 Meal: Dinner Date: 05-08-2024 Time: 05-08-2024 19:19:56
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 05-08-2024 Time: 05-08-2024 19:19:59
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 29.00 Meal: Dinner Date: 05-08-2024 Time: 05-08-2024 20:13:55
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 29.00 Meal: Dinner Date: 05-08-2024 Time: 05-08-2024 20:14:18
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 06-08-2024 Time: 06-08-2024 12:01:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 06-08-2024 Time: 06-08-2024 12:06:17
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 06-08-2024 Time: 06-08-2024 12:06:37
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 06-08-2024 Time: 06-08-2024 12:06:40
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 06-08-2024 Time: 06-08-2024 12:06:52
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 06-08-2024 Time: 06-08-2024 12:06:54
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 06-08-2024 Time: 06-08-2024 12:06:55
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 06-08-2024 Time: 06-08-2024 12:34:02
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 06-08-2024 Time: 06-08-2024 12:42:49
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 06-08-2024 Time: 06-08-2024 12:43:01
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 29.00 Meal: Snacks Date: 06-08-2024 Time: 06-08-2024 18:18:02
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 29.00 Meal: Snacks Date: 06-08-2024 Time: 06-08-2024 18:23:35
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 16.00 Meal: Dinner Date: 06-08-2024 Time: 06-08-2024 18:35:21
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 16.00 Meal: Dinner Date: 06-08-2024 Time: 06-08-2024 18:36:28
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 16.00 Meal: Dinner Date: 06-08-2024 Time: 06-08-2024 19:18:42
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 16.00 Meal: Dinner Date: 06-08-2024 Time: 06-08-2024 20:06:33
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 16.00 Meal: Dinner Date: 06-08-2024 Time: 06-08-2024 20:06:46
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 16.00 Meal: Dinner Date: 06-08-2024 Time: 06-08-2024 20:07:30
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 16.00 Meal: Dinner Date: 06-08-2024 Time: 06-08-2024 20:08:21
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 16.00 Meal: Dinner Date: 06-08-2024 Time: 06-08-2024 20:08:25
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 07-08-2024 Time: 07-08-2024 10:33:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 07-08-2024 Time: 07-08-2024 11:14:19
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 32.00 Meal: Other Date: 07-08-2024 Time: 07-08-2024 11:14:23
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 07-08-2024 Time: 07-08-2024 11:51:14
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 07-08-2024 Time: 07-08-2024 11:52:17
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:14:41
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:14:59
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:14:59
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:00
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:00
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:00
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:00
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:01
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:01
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:01
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:01
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:01
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:01
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:02
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:02
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:02
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:02
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:02
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:02
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:15:03
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Lunch Date: 07-08-2024 Time: 07-08-2024 12:30:58
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:56:24
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:56:27
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:56:29
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:56:31
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:56:33
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:56:34
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:56:35
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:56:35
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:56:36
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:57:07
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:57:08
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:57:08
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:57:09
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:57:11
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:57:12
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:57:13
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:57:18
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:57:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:59:53
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:59:54
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:59:55
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:59:56
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 16:59:56
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Snacks Date: 07-08-2024 Time: 07-08-2024 17:22:36
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 10:16:46
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 10:16:51
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 10:17:04
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 10:17:44
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 10:20:44
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 10:20:44
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:31:06
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:31:07
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:34:04
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:42:28
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:42:29
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:42:33
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:42:47
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:42:53
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:42:54
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:42:54
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:42:59
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:43:09
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:43:11
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:43:26
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:43:44
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:43:55
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:44:04
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:44:08
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:58:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 10:58:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 11:06:19
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 11:06:37
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 11:07:31
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 11:08:27
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 11:08:27
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 11:20:58
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 11:26:52
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 11:27:06
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 11:27:07
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 11:29:56
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Breakfast Date: 09-08-2024 Time: 09-08-2024 11:29:56
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:09:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:09:32
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:09:42
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:11:12
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:12:18
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:12:20
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:13:07
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:13:12
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:21:19
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:33:27
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:33:42
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:33:46
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:37:49
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:37:49
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:37:56
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:37:58
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:38:00
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:38:05
+Roll Number: 23110042 Name: manik Amount: sanjeev Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 12:38:46
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 13:06:04
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 13:06:18
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 13:06:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 13:06:21
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 25.00 Meal: Lunch Date: 09-08-2024 Time: 09-08-2024 13:06:22
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 23.00 Meal: Snacks Date: 09-08-2024 Time: 09-08-2024 17:53:23
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 18:11:51
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 18:12:06
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 18:13:29
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 19:38:08
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 19:39:50
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 19:40:04
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 19:44:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 19:53:25
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 19:54:27
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 19:55:04
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 19:55:15
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 20:03:59
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 20:13:33
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 20:17:10
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 20.00 Meal: Dinner Date: 09-08-2024 Time: 09-08-2024 20:18:13
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 22:10:48
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 22:13:51
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 22:18:19
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 32.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 22:21:00
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 17.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 22:28:35
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 17.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 22:28:58
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 17.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 22:44:53
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 17.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 22:45:24
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 17.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 22:46:54
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 17.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 22:51:01
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 17.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 23:04:04
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 17.00 Meal: Other Date: 09-08-2024 Time: 09-08-2024 23:04:19
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Breakfast Date: 10-08-2024 Time: 10-08-2024 11:42:40
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 26.00 Meal: Lunch Date: 10-08-2024 Time: 10-08-2024 12:03:19
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 26.00 Meal: Lunch Date: 10-08-2024 Time: 10-08-2024 12:04:50
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 26.00 Meal: Lunch Date: 10-08-2024 Time: 10-08-2024 12:09:57
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 10-08-2024 Time: 10-08-2024 12:10:43
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 10-08-2024 Time: 10-08-2024 12:19:28
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 10-08-2024 Time: 10-08-2024 12:22:28
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 10-08-2024 Time: 10-08-2024 12:44:34
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 10-08-2024 Time: 10-08-2024 12:44:47
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 10-08-2024 Time: 10-08-2024 12:47:45
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 10-08-2024 Time: 10-08-2024 12:51:43
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 26.00 Meal: Lunch Date: 10-08-2024 Time: 10-08-2024 13:25:27
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 31.00 Meal: Dinner Date: 10-08-2024 Time: 10-08-2024 20:34:16
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 31.00 Meal: Dinner Date: 10-08-2024 Time: 10-08-2024 20:34:23
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 31.00 Meal: Dinner Date: 10-08-2024 Time: 10-08-2024 20:48:52
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 31.00 Meal: Dinner Date: 10-08-2024 Time: 10-08-2024 20:50:02
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 31.00 Meal: Dinner Date: 10-08-2024 Time: 10-08-2024 20:50:39
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 31.00 Meal: Dinner Date: 10-08-2024 Time: 10-08-2024 20:54:39
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 31.00 Meal: Dinner Date: 10-08-2024 Time: 10-08-2024 21:00:41
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 31.00 Meal: Dinner Date: 10-08-2024 Time: 10-08-2024 21:07:18
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 31.00 Meal: Dinner Date: 10-08-2024 Time: 10-08-2024 21:11:52
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 31.00 Meal: Dinner Date: 10-08-2024 Time: 10-08-2024 21:18:35
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:17:18
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:17:41
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:19:01
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:25:46
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:26:10
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:26:23
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:31:28
+Roll Number: 23102056 Name: tinka Amount: xyz Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:31:45
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:32:35
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:37:35
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:37:51
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:50:07
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:50:11
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:52:26
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:52:39
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:53:07
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 14.00 Meal: Lunch Date: 11-08-2024 Time: 11-08-2024 14:53:12
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 11-08-2024 Time: 11-08-2024 15:35:55
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 11-08-2024 Time: 11-08-2024 15:36:18
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 11-08-2024 Time: 11-08-2024 15:36:28
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 11-08-2024 Time: 11-08-2024 15:39:06
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 11-08-2024 Time: 11-08-2024 15:49:02
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 11-08-2024 Time: 11-08-2024 15:50:19
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 11-08-2024 Time: 11-08-2024 15:52:04
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 11-08-2024 Time: 11-08-2024 15:52:26
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 11-08-2024 Time: 11-08-2024 15:53:05
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Snacks Date: 11-08-2024 Time: 11-08-2024 15:53:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:22:32
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:38:33
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:38:36
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:38:48
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:40:56
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:40:59
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:44:18
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:44:22
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:44:31
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:44:36
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:44:41
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:44:44
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:44:46
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:44:48
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:46:58
+Roll Number: 23104021 Name: davinder singh Amount: manpreet singh Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:48:53
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 12-08-2024 Time: 12-08-2024 19:49:27
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 12.00 Meal: Breakfast Date: 14-08-2024 Time: 14-08-2024 11:47:19
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 12.00 Meal: Breakfast Date: 14-08-2024 Time: 14-08-2024 11:48:19
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 12.00 Meal: Breakfast Date: 14-08-2024 Time: 14-08-2024 11:48:42
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 12.00 Meal: Breakfast Date: 14-08-2024 Time: 14-08-2024 11:49:21
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 12.00 Meal: Breakfast Date: 14-08-2024 Time: 14-08-2024 11:50:59
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 12.00 Meal: Breakfast Date: 14-08-2024 Time: 14-08-2024 11:53:03
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 12.00 Meal: Breakfast Date: 14-08-2024 Time: 14-08-2024 11:53:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 12.00 Meal: Breakfast Date: 14-08-2024 Time: 14-08-2024 11:53:29
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 12.00 Meal: Breakfast Date: 14-08-2024 Time: 14-08-2024 11:54:06
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 12.00 Meal: Breakfast Date: 14-08-2024 Time: 14-08-2024 11:55:04
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 12.00 Meal: Breakfast Date: 14-08-2024 Time: 14-08-2024 11:55:20
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Breakfast Date: 24-08-2024 Time: 24-08-2024 11:47:56
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 22.00 Meal: Breakfast Date: 24-08-2024 Time: 24-08-2024 11:48:26
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 02-09-2024 Time: 02-09-2024 18:20:17
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 02-09-2024 Time: 02-09-2024 18:26:17
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 02-09-2024 Time: 02-09-2024 19:39:23
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 02-09-2024 Time: 02-09-2024 19:41:00
+Roll Number: 23102084 Name: vikram Amount: harjeet Rate: ₹ 21.00 Meal: Dinner Date: 02-09-2024 Time: 02-09-2024 19:45:32
